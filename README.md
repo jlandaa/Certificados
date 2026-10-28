@@ -7,7 +7,7 @@
 
 Este repositorio consolida mi respaldo técnico corporativo. Como profesional en Data & AI, mi enfoque se centra en la orquestación de datos, la gestión de metadatos corporativos y la integración de soluciones de Inteligencia Artificial orientadas al negocio.
 
-## 🚀 Capacidades Arquitectónicas Core
+## 🚀 Capacidades Técnicas Core
 * 🏗️ **Enterprise Data Engineering:** Orquestación de flujos ETL/ELT en la nube y explotación de datos sobre ecosistemas Lakehouse.
 * 🛡️ **Catálogos de Datos, Linaje & Calidad:** Gestión de metadatos, trazabilidad y aseguramiento de la integridad de los datos.
 * 🧠 **Applied GenAI & Analytics:** Integración de modelos fundacionales (LLMs) y flujos generativos orientados al negocio.
