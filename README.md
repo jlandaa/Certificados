@@ -56,7 +56,7 @@ Este repositorio consolida mi respaldo técnico corporativo. Como profesional en
 
 ## 🏛️ Base Académica de Grado
 
-**Ingeniería y Licenciatura en Informática**  
+**Ingeniería en Informática**  
 *Universidad Argentina de la Empresa (UADE) | 2011 - 2022*  
 > *Nota de Compliance: Por normativas de protección de datos, el diploma y certificado analítico se mantienen resguardados. Disponibles a solicitud formal para instancias de Background Check.*
 
