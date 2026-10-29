@@ -18,7 +18,7 @@ Este repositorio consolida mi respaldo técnico corporativo. Como profesional en
 ## ⚙️ Data Engineering & Integración Cloud
 *Procesamiento analítico, canalizaciones de datos y ecosistemas de integración.*
 
-| Partner / Tecnología | Credencial Enterprise | Impacto Arquitectónico / Caso de Uso | Validación |
+| Partner / Tecnología | Credencial Enterprise | Aplicación Técnica / Caso de Uso | Validación |
 | :--- | :--- | :--- | :--- |
 | **Databricks** | SQL sobre Databricks | Análisis distribuido y explotación de datos con Delta Lake | [Ver Certificado](./SQL_Sobre_Databricks_Juan_Manuel_Landa.pdf) |
 | **Informatica** | IDMC Partner Associate | Fundamentos y desarrollo sobre Intelligent Data Management Cloud | [Ver Certificado](./Informatica/IDMC_Juan_Manuel_Landa.pdf) |
@@ -28,7 +28,7 @@ Este repositorio consolida mi respaldo técnico corporativo. Como profesional en
 ## 🛡️ Catálogos, Calidad de Datos & BI
 *Modelado semántico, democratización del dato, linaje corporativo y calidad.*
 
-| Partner / Tecnología | Credencial Enterprise | Impacto Arquitectónico / Caso de Uso | Validación |
+| Partner / Tecnología | Credencial Enterprise | Aplicación Técnica / Caso de Uso | Validación |
 | :--- | :--- | :--- | :--- |
 | **Informatica** | CDGC Implementation Practitioner | Gestión de metadatos y estructuración de diccionarios corporativos | [Ver Certificado](./Informatica/CDGC/CDGC_Juan_Manuel_Landa.pdf) |
 | **MicroStrategy** | Data Analytics & BI | Modelado semántico y visualización ejecutiva | [Ver Carpeta](./MicroStrategy) |
@@ -38,7 +38,7 @@ Este repositorio consolida mi respaldo técnico corporativo. Como profesional en
 ## 🧠 Inteligencia Artificial Aplicada (GenAI)
 *Seguridad en IA y flujos generativos aplicados al negocio.*
 
-| Partner / Tecnología | Credencial Enterprise | Impacto Arquitectónico / Caso de Uso | Validación |
+| Partner / Tecnología | Credencial Enterprise | Aplicación Técnica / Caso de Uso | Validación |
 | :--- | :--- | :--- | :--- |
 | **Google** | Gemini Academy Enterprise | Casos de uso corporativos y lineamientos de Seguridad en IA | [Ver Certificado](./Certificado-Gemini-Academy-Enterprise.pdf) |
 | **Google** | Gemini Academy | Optimización de LLMs y técnicas de Prompt Engineering | [Ver Certificado](./Certificado-Gemini-Academy.pdf) |
@@ -47,7 +47,7 @@ Este repositorio consolida mi respaldo técnico corporativo. Como profesional en
 ## 🏥 Conocimiento de Dominio (Domain Knowledge): Healthcare
 *Aplicación estratégica de analítica y comprensión del ecosistema de salud.*
 
-| Institución / Evento | Participación / Rol | Impacto Arquitectónico / Caso de Uso | Validación |
+| Institución / Evento | Participación / Rol | Aplicación Técnica / Caso de Uso | Validación |
 | :--- | :--- | :--- | :--- |
 | **HIBA** | Congreso de Informática en Salud | Contexto de negocio sobre IA clínica e interoperabilidad (Hospital Italiano) | [Ver Certificado](./Congreso_HIBA.pdf) |
 | **JIS** | Jornadas de Informática (2025) | Contexto normativo, analítica orientada al paciente y transformación digital | [Ver Certificado](./JIS2025.pdf) |
